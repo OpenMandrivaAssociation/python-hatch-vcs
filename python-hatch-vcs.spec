@@ -1,7 +1,7 @@
 Summary:	Hatch plugin for versioning with your preferred VCS
 Name:		python-hatch-vcs
 Version:	0.5.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Python
 URL:		https://pypi.org/project/hatch-vcs/
